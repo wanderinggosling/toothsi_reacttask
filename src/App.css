@@ -28,6 +28,22 @@
   color: #61dafb;
 }
 
+.card{
+  margin-top: 20px;
+  width: 18rem;
+  float:right;
+}
+
+@media screen and (max-width:767px) {
+  .card {
+    float:none;
+    width: auto;
+  }
+
+  .item-hide{
+    display: none;
+  }
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
