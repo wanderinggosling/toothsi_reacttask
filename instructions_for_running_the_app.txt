@@ -1,0 +1,5 @@
+->After downloading the zip file ,unzip the file.
+->Open the unzipped folder in vscode and go to the "catalogu"directory using:"cd catalogu" OR directly open the "catalogu" folder which consists of the source code.
+->After opening the folder in vscode,run "npm install node modules".
+->After the installation ,run "npm start"
+->And the app will start on the browser.
