@@ -1,5 +1,5 @@
 ->After downloading the zip file ,unzip the file.
-->Open the unzipped folder in vscode.
+->Open the unzipped folder in vscode and change directory to the "toothsi_reacttask-main" folder which contains the source code.
 ->After opening the folder in vscode,run "npm install node modules".
 ->After the installation ,run "npm start"
 ->And the app will start on the browser.
